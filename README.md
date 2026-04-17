@@ -13,12 +13,8 @@ Please work through the notebooks in this particular order:
 3. [Gradient_Descent_Codealong](3_Gradient_Descent_Codealong.ipynb)
 4. [Bonus_Classification](4_Bonus_Classification.ipynb)
 
-In the first notebook, you will see the code that performs each step of the gradient descent. Try to understand what happens in each line and document each step. The second notebook shows you what gradient descent really looks like (visually), and in the third notebook it's your job to write the code for gradient descent from scratch. In the last notebook, you will see a simple classification example that will give you a little preview of what to expect in the next few days.
-
 
 ## Environment
-
-The same procedure as last time... the same procedure as every time! 
 
 Create a new environment using the requirements file in this repo.
 
