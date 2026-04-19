@@ -11,7 +11,7 @@ Please work through the notebooks in this particular order:
 1. [Gradient_Descent](1_Gradient_Descent.ipynb)
 2. [Gradient_Descent_Visuallization](2_Gradient_Descent_Visualization.ipynb)
 3. [Gradient_Descent_Codealong](3_Gradient_Descent_Codealong.ipynb)
-4. [Bonus_Classification](4_Bonus_Classification.ipynb)
+
 
 
 ## Environment
