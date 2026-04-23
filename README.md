@@ -19,5 +19,3 @@ source .venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
-
-*Note: If there are errors during environment setup, try removing the versions from the failing packages in the requirements file.*
